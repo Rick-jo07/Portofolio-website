@@ -264,11 +264,13 @@ canvas {
     font-family: "Titillium Web", sans-serif;
     font-weight: 700;
     font-style: normal;
+    color: #d7d7da;
 }
 .Contact {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #d7d7da;
 }
 
 .Contactby {
